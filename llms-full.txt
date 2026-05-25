@@ -1441,7 +1441,7 @@ Chapter 7 vs. Chapter 13 Comparison
 
 Discharge Eligibility Screener
 
-Last updated: April 2026. Discharge rates derived from FJC national data covering 4.9 million cases across 94 federal districts. Not legal advice.
+Last updated: April 2026. Discharge rates derived from FJC national data covering 8 million cases across 94 federal districts. Not legal advice.
 
 Cited in Federal Rules Suggestion 26-BK-3
 
@@ -1734,7 +1734,7 @@ Means Test Calculator
 
 Pro Se Bankruptcy Guide
 
-Last updated: April 2026. Based on national fee surveys and FJC data covering 4.9 million cases across 94 federal districts. Not legal advice.
+Last updated: April 2026. Based on national fee surveys and FJC data covering 8 million cases across 94 federal districts. Not legal advice.
 
 Cited in Federal Rules Suggestion 26-BK-3
 
@@ -3708,7 +3708,7 @@ Sometimes. Some attorneys include 1-2 routine plan modifications in their origin
 
 About This Data
 
-Cost estimates on this page are based on national surveys of bankruptcy attorney fees, published trustee fee percentages, data from the FJC Integrated Database (4.9 million cases), and tax guidance from IRC section 108 and IRS Publication 4681. Dismissal rates are derived from national case outcome data across all 94 federal districts. This is an educational resource, not legal advice.
+Cost estimates on this page are based on national surveys of bankruptcy attorney fees, published trustee fee percentages, data from the FJC Integrated Database (8 million cases), and tax guidance from IRC section 108 and IRS Publication 4681. Dismissal rates are derived from national case outcome data across all 94 federal districts. This is an educational resource, not legal advice.
 
 Last updated: March 2026.
 
@@ -4078,7 +4078,7 @@ Chapter 7 attorney fees are paid upfront before filing. The filing fee can be pa
 
 About This Data
 
-Fee ranges on this page are based on surveys of bankruptcy attorney fees across multiple federal districts, published fee guidelines, and data from the FJC Integrated Database. Discharge rates are derived from national case outcome data covering 4.9 million cases across all 94 federal districts.
+Fee ranges on this page are based on surveys of bankruptcy attorney fees across multiple federal districts, published fee guidelines, and data from the FJC Integrated Database. Discharge rates are derived from national case outcome data covering 8 million cases across all 94 federal districts.
 
 This is an educational resource, not legal advice.
 
